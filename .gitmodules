@@ -1,0 +1,9 @@
+[submodule "sim/00-getting-stated-asm"]
+	path = sim/00-getting-stated-asm
+	url = git@github.com:DC-UFSCar/getting-started-asm.git
+[submodule "sim/01-register-memory"]
+	path = sim/01-register-memory
+	url = git@github.com:DC-UFSCar/register-memory.git
+[submodule "sim/02-rf-test-bench"]
+	path = sim/02-rf-test-bench
+	url = git@github.com:DC-UFSCar/rf-test-bench.git
