@@ -6,4 +6,4 @@ O objetivo desta prática é usar uma memória ROM para criar um efeito visual q
 
 Os arquivos estão todos completos, você só precisa modificar o [conteúdo da memória](rom.bin) para exibir o que desejar e variar a frequêcia até encontrar uma que seja possível ver o banner. 
 
-[![Veja o efeito desejado](https://img.youtube.com/vi/kuhXG_7tNeQ/0.jpg)](https://www.youtube.com/watch?v=kuhXG_7tNeQ)
+[![Veja o efeito desejado](https://img.youtube.com/vi/mdm_9-jBZH8/0.jpg)](https://www.youtube.com/watch?v=mdm_9-jBZH8)
