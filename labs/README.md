@@ -4,12 +4,13 @@
 
 ## Simulações
 
-Em geral, as simulações funcionais podem todas ser realizada em ambiente **Linux**. A seguir está o comando de instalação, dependendo de sua distribuição, dos pacotes necessários: `[apt|snap|yum|rpm|dnf|pacman] install iverilog gtkwave gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu qemu-user qemu-user-static`
+Em geral, as simulações funcionais podem todas ser realizada em ambiente **Linux** ou no Windows usando [**WSL**](https://www.vlab.dc.ufscar.br/tutoriais/Sim/#wsl). A seguir está o comando de instalação, dependendo de sua distribuição, dos pacotes necessários: `[apt|snap|yum|rpm|dnf|pacman] install iverilog gtkwave gcc-riscv64-linux-gnu binutils-riscv64-linux-gnu qemu-user qemu-user-static`
 
 ### Extensões úteis para o VSCode
 
 - [Verilog](https://marketplace.visualstudio.com/items/?itemName=mshr-h.VerilogHDL)
-- [WaveTrave](https://marketplace.visualstudio.com/publishers/wavetrace)
+- [Surfer](https://marketplace.visualstudio.com/items?itemName=surfer-project.surfer)
+- [WaveTrace](https://marketplace.visualstudio.com/publishers/wavetrace)
 - [DigitalJS](https://marketplace.visualstudio.com/items/?itemName=yuyichao.digitaljs)
 - [RISCV](https://marketplace.visualstudio.com/items/?itemName=zhwu95.riscv)
 
